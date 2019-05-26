@@ -1,0 +1,24 @@
+#task5 {
+    background-color: lavender;
+    width: 500px;
+    height: 500px;
+    overflow-y: scroll;
+    margin-top: 20px;
+    scroll-behavior: smooth;
+}
+
+#task6 li {
+    cursor: pointer;
+    list-style: none;
+}
+
+#task6 li:hover {
+    color: red;
+}
+
+#task7 {
+    width: 500px;
+    margin-bottom: 10px;
+    padding: 10px;
+    user-select: none;
+}
